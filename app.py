@@ -14,7 +14,7 @@ app = dash.Dash(
     __name__,
     meta_tags=[{"name": "viewport", "content": "width=device-width, initial-scale=1"}],
 )
-app.title = "Dashboard energia branch jsvictoria"
+app.title = "Dashboard energia con modificacion branch jsvictoria"
 
 server = app.server
 app.config.suppress_callback_exceptions = True
