@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import datetime as dt
 
-
+# Cambio en la rama guillermo-viz
 
 app = dash.Dash(
     __name__,
